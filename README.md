@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Virtual Horizon](https://github.com/vacaramin/Virtual-Horizon)
 
-- 🌱 I’m currently learning **Blockchain, Cloud Computing**
+- 🌱 I’m currently learning **Blockchain and Cloud Computing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/awaismohammad23](https://github.com/awaismohammad23)
 
@@ -18,9 +18,8 @@
 <a href="https://twitter.com/awaismohammad23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="awaismohammad23" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/awais mohammad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="awais mohammad" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/awais-mohammad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="awais-mohammad" height="30" width="40" /></a>
-<a href="https://fb.com/awaismohammad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="awaismohammad" height="30" width="40" /></a>
-<a href="https://instagram.com/_awais.mohammad_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_awais.mohammad_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/awais_mohammad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="awais_mohammad" height="30" width="40" /></a>
+<a href="https://instagram.com/instagram.com/_awais.mohammad_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/_awais.mohammad_" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/youtube.com/awais_mohammad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube.com/awais_mohammad" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,7 +27,5 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/awaismohammad"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="awaismohammad" /></a></p><br><br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=awaismohammad23&show_icons=true&locale=en&layout=compact" alt="awaismohammad23" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=awaismohammad23&" alt="awaismohammad23" /></p>

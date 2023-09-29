@@ -37,11 +37,10 @@
 
 <p align="left">Hello! I'm an undergraduate student at FAST National University Islamabad Campus, pursuing my passion for software development. I have a strong interest in the MERN stack, where I thrive on building dynamic and efficient web applications. My expertise extends to a diverse set of programming languages, including Java, C, C++, and Golang, allowing me to tackle a wide range of projects. I also have a knack for managing data, with experience in SQL Server, MySQL, and MongoDB. I'm an advocate for open source and enjoy collaborating with fellow developers to solve complex problems. I'm committed to continuous learning and staying updated with the latest industry trends. Let's connect and build amazing software together!</p>
 
-###
+
 
 <h3 align="left">🛠 Language and tools</h3>
 
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />

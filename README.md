@@ -28,8 +28,7 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-
-<h1 align="center">Hello 👋, I'm Awais Mohammad</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+my+name+is+Awais+Mohammad)](https://git.io/typing-svg)
 
 ###
 

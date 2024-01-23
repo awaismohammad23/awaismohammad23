@@ -1,5 +1,4 @@
 <div align="center">
-![gif](https://github.com/awaismohammad23/awaismohammad23/assets/94608299/4769cf2c-9537-4731-be2d-452ef9671eb2)  
 </div>
 
 <div align="center">

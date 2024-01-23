@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Flottie-animations%2Fprogrammer&psig=AOvVaw2dXn3RDpwiM7sbc0WbNQ2E&ust=1704822614955000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIi_i6mtzoMDFQAAAAAdAAAAABAE"  />
+![gif](https://github.com/awaismohammad23/awaismohammad23/assets/94608299/4769cf2c-9537-4731-be2d-452ef9671eb2)  
 </div>
 
 <div align="center">

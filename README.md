@@ -48,12 +48,12 @@ I'm an active **open-source contributor** and enjoy collaborating with fellow de
 ## GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=awaismohammad23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awaismohammad23&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=awaismohammad23&show_icons=true&theme=tokyonight&include_all_commits=true&hide=prs,issues&cache_seconds=86400" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awaismohammad23&layout=compact&langs_count=8&theme=tokyonight&hide=html,css&cache_seconds=86400" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=awaismohammad23&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=awaismohammad23&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
 
 ---

@@ -52,10 +52,6 @@ I'm an active **open-source contributor** and enjoy collaborating with fellow de
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awaismohammad23&layout=compact&langs_count=8&theme=tokyonight&hide=html,css&cache_seconds=86400" alt="Top Languages" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=awaismohammad23&theme=tokyonight&mode=weekly" alt="GitHub Streak" />
-</div>
-
 ---
 
 ## Tech Stack

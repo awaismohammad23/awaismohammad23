@@ -53,7 +53,7 @@ I'm an active **open-source contributor** and enjoy collaborating with fellow de
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=awaismohammad23&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.demolab.com?user=awaismohammad23&theme=tokyonight&mode=weekly" alt="GitHub Streak" />
 </div>
 
 ---

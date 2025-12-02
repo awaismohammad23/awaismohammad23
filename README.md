@@ -48,12 +48,8 @@ I'm an active **open-source contributor** and enjoy collaborating with fellow de
 ## GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/awaismohammad23">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=awaismohammad23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/awaismohammad23">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awaismohammad23&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=awaismohammad23&show_icons=true&theme=tokyonight&hide_border=false&bg_color=1a1b27&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awaismohammad23&layout=compact&langs_count=8&theme=tokyonight&hide_border=false" alt="Top Languages" />
 </div>
 
 ---

@@ -48,7 +48,7 @@ I'm an active **open-source contributor** and enjoy collaborating with fellow de
 ## GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=awaismohammad23&theme=tokyonight&show_icons=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=awaismohammad23&theme=onedark&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awaismohammad23&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
 </div>
 

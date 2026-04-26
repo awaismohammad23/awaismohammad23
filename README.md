@@ -40,7 +40,7 @@ I'm an active **open-source contributor** and enjoy collaborating with fellow de
 - 🌱 Exploring advanced cloud architectures and distributed systems
 - 👯 Open to collaborating on innovative projects and open-source contributions
 - 💬 Ask me about Full-Stack development, AI/ML, Data Engineering, or software architecture
-- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/awais-mohammad-270a50191/)
+- 📫 Reach me via [LinkedIn]()
 - ⚡ Fun fact: I love solving complex problems and turning innovative ideas into production-ready solutions
 
 ---
